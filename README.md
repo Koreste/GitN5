@@ -1,3 +1,3 @@
-# GitN5
+# GitN5 LOCALE
 HELLO 
 GOODBYE
